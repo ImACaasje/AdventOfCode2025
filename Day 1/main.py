@@ -10,6 +10,7 @@ def part1(input):
 
     return counter
 
+# TODO: Make this function work
 def part2(input):
     current_num = 50
     counter = 0
