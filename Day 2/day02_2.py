@@ -1,0 +1,1 @@
+input = [range.strip().split(',') for range in open("input.txt").readlines()][0]
